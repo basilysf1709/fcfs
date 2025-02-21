@@ -1,1 +1,13 @@
-.zig-cache
+# Zig build artifacts
+zig-cache/
+zig-out/
+
+# Output files
+output.txt
+
+# IDE/Editor specific files
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
